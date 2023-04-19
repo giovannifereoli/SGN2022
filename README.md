@@ -1,4 +1,4 @@
-# SGN2023
+# SGN2022
 Spacecraft Guidance and Navigation
 
 Assignment I: Guidance
